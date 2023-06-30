@@ -12,6 +12,7 @@
 
 .App-header {
   background-color: #282c34;
+  background-image: url(./photos/banner.jpg);
   min-height: 20vh;
   display: flex;
   flex-direction: column;
